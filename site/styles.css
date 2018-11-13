@@ -1,0 +1,35 @@
+.jumbotron{
+	background-color:#2E2D88;
+	color:white;
+}
+body{
+	background:#214563 url(img/bg_main.jpg) repeat-x top left;
+	color: #000; 
+	font:  Arial, Helvetica, sans-serif;
+}
+.panel{
+	background-color: #214563;
+	border-color: #214563;
+}
+
+.carousel{
+	background-color: #214563;
+}
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+	width: 70%;
+	margin: auto;
+}
+.white{
+	background-color: #FFF;
+	padding: 20px;
+}
+p{
+	text-align: justify;
+}
+
+#harta{
+
+	max-width: 100%;
+	height: auto;
+}
